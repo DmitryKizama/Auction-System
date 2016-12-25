@@ -39,6 +39,8 @@ Also, we can login as admin (login “admin”, password “admin”) and confir
   <img src="https://github.com/DmitryKizama/Auction-System/blob/master/screenshots/9.png" width="350"/>
 </p>
 
+Also, if someone bids the car, we can sell it, and it will appear in won tab of our buyer. 
+
 <h1>Technologies and design patterns used.</h1>
 
 Features, implemented in application: <br>
