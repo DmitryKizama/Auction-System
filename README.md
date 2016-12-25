@@ -7,6 +7,8 @@ Admin can delete user item when they are in unchecked list.
 
 There is a user bot in this app. Bot creates new product or bid on random item (50 to 50) every 10 sec (You can make your own time in BotService.TIMEBOT) This is done in service, and when bot completes some action, Broadcast is casted, so if activity is open (ListOfProductActivity or ProductActivity) it can receive the update and handle it properly – update the UI.
 
+<h1>Video</h1>
+watch demo video <a href="https://github.com/DmitryKizama/Auction-System/tree/master/Demo">here</a>
 
 <h1>Screenshots</h1>
 Here we can see first login screen – we can register or login here. Also, we have hardcoded admin user, who can monitor (accept/reject) products
